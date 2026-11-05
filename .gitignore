@@ -1,0 +1,18 @@
+# Pastas de dependências do Front
+node_modules/
+dist/
+
+# Pastas do Back (Java/Spring)
+target/
+.mvn/
+.mvnw
+.mvnw.cmd
+
+# Arquivos do IntelliJ e VSCode
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
